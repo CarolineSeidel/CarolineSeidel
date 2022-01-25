@@ -18,7 +18,7 @@ In progress:
 <br> ⏰ critical thinking about AI
 <br> ⏰ memory game on historical milestones of AI
 
-Currently our platform is only available in German language.
+Currently our platform is only available in German.
 
 <!--
 **CarolineSeidel/CarolineSeidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
