@@ -16,7 +16,6 @@ Implemented:
 
 In progress:
 <br>⏰ introduction to machine learning 
-<br>⏰ ethical thinking about AI
 <br>⏰ memory game on historical milestones of AI
 
 Currently our platform is only available in German.
