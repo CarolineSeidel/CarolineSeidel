@@ -1,7 +1,6 @@
 ### Hi there I'm Caro 👋
 
-My goal is to explain artificial intelligence (AI) in an understandable way and make it accessible to as many people as possible. 🌍 <br>
-Therefore my team and I create workshops, online programming tutorials and education material on critical thinking as well as the impact of AI on the social level.
+I have a Masters in Industrial and Organizational Psychology and focus on learning and development, e-learning, training design and talent management. My goal is to explain artificial intelligence (AI) in an understandable way and make it accessible to as many people as possible. 🌍 Durig my time at the Tübingen AI Center I created workshops, online programming tutorials and education material on critical thinking as well as the impact of AI on the social level.
 
 Although the GitHub repos I am working on are private you can see cool stuff we have developed here: [**KI-Kurs**](http:www.ki-kurs.org)
 
@@ -18,7 +17,7 @@ In progress:
 <br>⏰ introduction to machine learning 
 <br>⏰ memory game on historical milestones of AI
 
-Currently our platform is only available in German.
+Currently our platform is only available in German - we are working on that! 😉
 
 <!--
 **CarolineSeidel/CarolineSeidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
