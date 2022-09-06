@@ -1,6 +1,9 @@
 ### Hi there I'm Caro 👋
 
-I have a Masters in Industrial and Organizational Psychology and focus on learning and development, e-learning, training design and talent management. My goal is to explain artificial intelligence (AI) in an understandable way and make it accessible to as many people as possible. 🌍 Durig my time at the Tübingen AI Center I created workshops, online programming tutorials and education material on critical thinking as well as the impact of AI on the social level.
+I have a Masters in Industrial and Organizational Psychology and focus on learning and development, e-learning, training design and talent management.
+I have a passion for developing accessible trainings as well as learning materials that build on existing skills and promote knowledge sharing. 👩🏼‍💻
+
+Durig my time at the Tübingen AI Center I created workshops, online programming tutorials and education material on critical thinking as well as the impact of AI on the social level. Our goal is to explain artificial intelligence (AI) in an understandable way and make it accessible to as many people as possible. 🌍
 
 Although the GitHub repos I am working on are private you can see cool stuff we have developed here: [**KI-Kurs**](http:www.ki-kurs.org)
 
